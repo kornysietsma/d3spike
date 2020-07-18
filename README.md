@@ -1,3 +1,5 @@
+**Archived** - see much newer repos for using d3 on static sites, and using react for logic...
+
 # d3spike
 
 Note currently you need to run lesscss manually:
